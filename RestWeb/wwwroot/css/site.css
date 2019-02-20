@@ -1,7 +1,4 @@
-﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
-
-html,*{
+﻿html,*{
     text-align:center;
 }
 body{
@@ -23,16 +20,7 @@ ul{
             text-decoration: none;
             color: rgb(142, 142, 142);
         }
-#navigation:before, #navigation:after {
-    background-color: #d0d0d0;
-    content: "";
-    display: inline-block;
-    height: 1px;
-    bottom: .1em;
-    position: relative;
-    vertical-align: middle;
-    width: 50%;
-}
+
 table{
     width:100%;
 }
